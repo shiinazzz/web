@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+    background-color: rgb(32, 32, 32);
+}
+
+header {
+    color: rgb(0, 0, 0);
+    margin-top: 4px;
+}
+
+.header h1 {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
+
+.header p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+}
