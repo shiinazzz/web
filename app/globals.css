@@ -1,0 +1,38 @@
+body {
+  background: #000;
+}
+
+#zzz {
+  margin-top: calc(50vh - 7em);
+  text-align: center;
+}
+
+#zzz h1 {
+  font-size: 3em;
+  margin: 0;
+  color: #493a43;
+}
+#zzz p {
+  font-size: 1.25em;
+  margin: 0;
+  color: #4B4B4B;
+}
+#zzz p a {
+  color: #999;
+  text-decoration: none;
+  transition: 0.3s color;
+}
+#zzz p a:hover {
+  color: #FFF;
+}
+#zzz h6 {
+  font-size: 1em;
+  margin: 0;
+  color: #242424;
+  font-weight: 500;
+}
+#zzz img {
+  width: 150px;
+  height: auto;
+  opacity: 30%;
+}
